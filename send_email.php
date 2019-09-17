@@ -1,4 +1,5 @@
 <?php
+#Этот файл отправляет приветсвенное Email новым пользователям. Подключается в момент регистрации
 
 require_once 'PHPMailer/PHPMailerAutoload.php';
 
